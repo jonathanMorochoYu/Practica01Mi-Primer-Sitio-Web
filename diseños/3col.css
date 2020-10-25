@@ -1,0 +1,74 @@
+.div3{
+    width: 20;
+    float: right;
+}
+
+#menu2{
+    width: 20%;
+    float: right;
+    height: 200px;
+    border: 10px double rgb(13, 209, 216);
+    white-space: normal;
+    background-image: url(../images/s.jpg);
+    line-height: 40px;
+
+}
+
+form {
+    margin: 0 auto;
+    width: 92%;
+    padding: 1em;
+    height: 300px;
+    border: 5px solid;
+    border-radius: 1em;
+    background-color:  rgb(245, 178, 55);
+}
+
+
+label {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(99, 72, 38, 0.548)
+}
+
+input, textarea {
+    font: 1em sans-serif;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid rgb(44, 38, 38);
+}
+
+input:focus, textarea:focus {
+    border-color: #000;
+}
+
+textarea {
+    vertical-align: top;
+    height: 5em;
+    resize: vertical;
+}
+.button {
+    padding-left: 90px; 
+}
+button {
+    margin-left: .5em;
+}
+
+#div4{
+    width: 97%;
+}
+
+.divcol2{
+    width: 38%;
+    float: left;
+    background-color: darkmagenta;
+}
+
+.divcol3{
+    width: 37%;
+    float: left;
+    background-image: url(../images/mis.jpg)
+}
+

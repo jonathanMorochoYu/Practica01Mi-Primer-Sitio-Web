@@ -3,6 +3,7 @@
     float: right;
 }
 
+
 form {
     margin: 0 auto;
     width: 92%;
@@ -52,7 +53,8 @@ button {
 .divcol2{
     width: 38%;
     float: left;
-    background-color: darkmagenta;
+    
+    background-color: aquamarine
 }
 
 .divcol3{

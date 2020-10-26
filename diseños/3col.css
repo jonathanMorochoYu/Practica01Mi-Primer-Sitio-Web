@@ -3,17 +3,6 @@
     float: right;
 }
 
-#menu2{
-    width: 20%;
-    float: right;
-    height: 200px;
-    border: 10px double rgb(13, 209, 216);
-    white-space: normal;
-    background-image: url(../images/s.jpg);
-    line-height: 40px;
-
-}
-
 form {
     margin: 0 auto;
     width: 92%;
@@ -69,6 +58,6 @@ button {
 .divcol3{
     width: 37%;
     float: left;
-    background-image: url(../images/mis.jpg)
+    
 }
 
